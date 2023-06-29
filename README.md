@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://tenor.com/view/banner-gif-22389167)
+[![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
 <h1 align="center">Hi 👋, I'm EDDIE NGIGI CHEGE</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-typing-big-brained-busy-sweating-gif-17808553">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **SOFTWARE ENGINEERING AT ALX**
