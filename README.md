@@ -1,5 +1,5 @@
 [![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
-<h1 align="center">Hi 👋, I'm EDDIE NGIGI CHEGE</h1>
+<h1 align="left">Hi 👋, I'm EDDIE NGIGI CHEGE</h1>
 
 - 📫 How to reach me **eddychege718@gmail.com**
 
