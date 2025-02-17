@@ -1,9 +1,9 @@
 
 <h1 align="left">Hi 👋</h1>
-<p>I am Eddie Ngigi, a Machine Learning Engineer currently looking for an entry role</p>
-<h2 align="left">HAKUNA MATATA!😁</h2>
+<p>I am Eddie Ngigi, ML enthusiast</p>
 
-- ⚡ Fun fact **I LOVE MARVEL!**
+
+💭 Interact with my blogs on https://medium.com/@eddychege718
 
 
 
