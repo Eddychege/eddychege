@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/eddie-chege-56b43b225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beka kakachia" height="30" width="40" /></a>
-<a href="https://discord.com/users/1061269419487133736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kakachia777" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kakachia777" height="30" width="40" /></a>
 </p>
 
 
